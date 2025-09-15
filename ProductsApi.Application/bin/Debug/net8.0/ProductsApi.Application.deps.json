@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductsApi.Application/1.0.0": {
+        "dependencies": {
+          "ProductsApi.Domain": "1.0.0",
+          "Shared.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "ProductsApi.Application.dll": {}
+        }
+      },
+      "ProductsApi.Domain/1.0.0": {
+        "runtime": {
+          "ProductsApi.Domain.dll": {}
+        }
+      },
+      "Shared.Contracts/1.0.0": {
+        "runtime": {
+          "Shared.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductsApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductsApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
