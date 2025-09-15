@@ -4026,11 +4026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Infrastructure\\ProductsApi.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Infrastructure\\ProductsApi.Infrastructure.csproj",
       "projectName": "ProductsApi.Infrastructure",
-      "projectPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Infrastructure\\ProductsApi.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Infrastructure\\ProductsApi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4052,11 +4052,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Application\\ProductsApi.Application.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Application\\ProductsApi.Application.csproj"
+            "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Application\\ProductsApi.Application.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Application\\ProductsApi.Application.csproj"
             },
-            "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Domain\\ProductsApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Domain\\ProductsApi.Domain.csproj"
+            "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Domain\\ProductsApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Domain\\ProductsApi.Domain.csproj"
             }
           }
         }

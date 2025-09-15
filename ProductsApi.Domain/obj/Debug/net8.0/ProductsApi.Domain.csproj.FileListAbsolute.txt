@@ -9,3 +9,15 @@ C:\Users\user\Documents\PruebaTécnica\src\ProductsApi.Domain\obj\Debug\net8.0\P
 C:\Users\user\Documents\PruebaTécnica\src\ProductsApi.Domain\obj\Debug\net8.0\refint\ProductsApi.Domain.dll
 C:\Users\user\Documents\PruebaTécnica\src\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.pdb
 C:\Users\user\Documents\PruebaTécnica\src\ProductsApi.Domain\obj\Debug\net8.0\ref\ProductsApi.Domain.dll
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\bin\Debug\net8.0\ProductsApi.Domain.deps.json
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\bin\Debug\net8.0\ProductsApi.Domain.dll
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\bin\Debug\net8.0\ProductsApi.Domain.pdb
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.sourcelink.json
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.dll
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\refint\ProductsApi.Domain.dll
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ProductsApi.Domain.pdb
+C:\Users\user\Documents\ProductsAPI\ProductsApi.Domain\obj\Debug\net8.0\ref\ProductsApi.Domain.dll

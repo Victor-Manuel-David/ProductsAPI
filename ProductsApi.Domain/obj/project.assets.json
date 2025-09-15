@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Domain\\ProductsApi.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Domain\\ProductsApi.Domain.csproj",
       "projectName": "ProductsApi.Domain",
-      "projectPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Domain\\ProductsApi.Domain.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Domain\\ProductsApi.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\PruebaTécnica\\src\\ProductsApi.Domain\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\ProductsAPI\\ProductsApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
